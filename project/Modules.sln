@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmuTarkov.Common", "EmuTarkov.Common\EmuTarkov.Common.csproj", "{7584F43A-5937-417E-ABF4-C5F680F300FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmuTarkov.Core", "EmuTarkov.Core\EmuTarkov.Core.csproj", "{AC9ADC41-6007-4392-9D52-2BD850506052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmuTarkov.SinglePlayer", "EmuTarkov.SinglePlayer\EmuTarkov.SinglePlayer.csproj", "{CA2CDB32-6C34-4B23-AB90-E7A776AD40F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmuTarkov.RuntimeBundles", "EmuTarkov.RuntimeBundles\EmuTarkov.RuntimeBundles.csproj", "{A26EC305-EAC1-4C48-BD8D-57099ABC9BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7584F43A-5937-417E-ABF4-C5F680F300FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7584F43A-5937-417E-ABF4-C5F680F300FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7584F43A-5937-417E-ABF4-C5F680F300FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7584F43A-5937-417E-ABF4-C5F680F300FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC9ADC41-6007-4392-9D52-2BD850506052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9ADC41-6007-4392-9D52-2BD850506052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9ADC41-6007-4392-9D52-2BD850506052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9ADC41-6007-4392-9D52-2BD850506052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA2CDB32-6C34-4B23-AB90-E7A776AD40F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2CDB32-6C34-4B23-AB90-E7A776AD40F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2CDB32-6C34-4B23-AB90-E7A776AD40F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2CDB32-6C34-4B23-AB90-E7A776AD40F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A26EC305-EAC1-4C48-BD8D-57099ABC9BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26EC305-EAC1-4C48-BD8D-57099ABC9BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26EC305-EAC1-4C48-BD8D-57099ABC9BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26EC305-EAC1-4C48-BD8D-57099ABC9BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B25502A9-1DC0-4D0A-8947-5BCB48EF5B8B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<nlog xmlns="http://www.nlog-project.org/schemas/NLog.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<targets>
+		<target name="EmuTarkov.Common" xsi:type="EmuTarkov.Common" />
+		<target name="EmuTarkov.Core" xsi:type="EmuTarkov.Core" />
+		<target name="EmuTarkov.RuntimeBundles" xsi:type="EmuTarkov.RuntimeBundles" />
+		<target name="EmuTarkov.SinglePlayer" xsi:type="EmuTarkov.SinglePlayer" />
+	</targets>
+</nlog>
